@@ -1,0 +1,30 @@
+
+.draggable {
+  width: 150px;
+  height: 150px;
+  padding: 0.5em;
+  background: blue;
+  color: white;
+  margin: 10px;
+}
+
+
+.myDiv {
+  height: 100px;
+  width: 100px;
+  background: red;
+}
+
+.myClass {
+  height: 400px;
+  width: 400px;
+  background: yellow;
+}
+
+
+
+/* #button {
+  height: 20px;
+  width: 20px;
+  background: green;
+} */
